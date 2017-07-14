@@ -1,0 +1,3 @@
+wordsegment
+boto
+pymongo
